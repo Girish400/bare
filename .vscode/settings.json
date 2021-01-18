@@ -3,13 +3,17 @@
     "terminal.integrated.shell.windows": "C:\\Windows\\System32\\WindowsPowerShell\\v1.0\\powershell.exe",
     "terminal.integrated.shellArgs.windows": ["-nologo"],    
     "terminal.integrated.fontSize": 17,
-
+    
     "files.autoSave": "afterDelay",
     "workbench.iconTheme": "vscode-icons",
     "vsintellicode.modify.editor.suggestSelection": "automaticallyOverrodeDefaultValue",
     "python.languageServer": "Pylance", 
     
-
+    "python.pythonPath": ".venv/Scripts/python.exe",
+    "python.envFile": "${workspaceFolder}/.venv",
+    "python.analysis.autoImportCompletions": true,
+    "python.autoComplete.addBrackets": true,
+    "python.venvPath": ".venv",
       
 
     "editor.fontSize": 18,
