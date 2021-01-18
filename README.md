@@ -1,3 +1,6 @@
+sudo service redis-server start
+sudo service redis-server status
+
 # bare
 https://docs.microsoft.com/en-us/windows/terminal/tutorials/powerline-setup
 

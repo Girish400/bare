@@ -29,4 +29,5 @@
     
     "git.enabled": true,
     "git.autofetch": true,
+    "python.analysis.completeFunctionParens": true,
 }
