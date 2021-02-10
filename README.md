@@ -1,4 +1,4 @@
-added one
+https://github.com/microsoft/vscode-docs/blob/master/docs/getstarted/settings.md#default-settings
 
 ## My Test
 sudo service redis-server start
