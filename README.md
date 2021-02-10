@@ -1,6 +1,5 @@
 ## README.MD
-9865657
-Home
+
 
 https://github.com/microsoft/vscode-docs/blob/master/docs/getstarted/settings.md#default-settings
 
